@@ -1,5 +1,3 @@
-# css-homework1
-
 # CSS Project 1 - Müzik Dükkanım
 
 Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Frontend Web Development Patikası" içerisinde bulunan "CSS" konusunun ilk ödevini yaptım.
