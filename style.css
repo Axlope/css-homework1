@@ -1,0 +1,39 @@
+h1 {
+    color: crimson;
+    font-size: 55px;
+}
+
+h2 {
+    color: blue;
+    font-size: 40px;
+}
+
+h3 {
+    color: orange;
+    font-size: 30px;
+}
+
+body {background-color: #F4F5FC;}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+  }
+
+  p {
+    font-size: 25px;
+  }
+
+  li {
+    font-size: 25px;
+  }
+
+  a {
+    font-size: 25px;
+  }
+
+  ul {
+    list-style-position: inside;
+  }
